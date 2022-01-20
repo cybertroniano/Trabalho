@@ -154,6 +154,9 @@ main p {
 				line-height: 1.5em;
 				text-align: justify;
 }
+ p : introdução{
+	 color: var(--cor4);
+}
 
 .aberto {
 				background-color: var(--cor1);
