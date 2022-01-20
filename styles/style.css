@@ -154,7 +154,7 @@ main p {
 				line-height: 1.5em;
 				text-align: justify;
 }
- p : introdução{
+p#introdução{
 	 color: var(--cor4);
 }
 
