@@ -51,9 +51,6 @@ mark {
 a:hover {
 				text-decoration: underline;
 }
-p {
-	font-family: var(--font-google)	
-}
 
 p.descricao {
 				text-align: center;
@@ -155,7 +152,7 @@ main h2 {
 }
 
 main p {
-				font-family: var(--fonte-padrao);
+				font-family: var(--fonte-google);
 				font-size: 1em;
 				margin-bottom: 5px;
 				line-height: 1.5em;
